@@ -81,7 +81,7 @@ const Contact = () => {
             name="name"
             required
             className="p-3 outline-none border-[0.5px] border-gray-400 
-            rounded-md bg-white dark:bg-darkHover/30 dark:border-white/90"
+            rounded-md bg-white dark:bg-darkHover/30 dark:border-white/90 text-[14px] md:text-[16px]"
           />
           <motion.input
             initial={{ opacity: 0, x: 50 }}
@@ -92,7 +92,7 @@ const Contact = () => {
             name="email"
             required
             className="p-3 outline-none border-[0.5px] border-gray-400 
-             rounded-md bg-white dark:bg-darkHover/30 dark:border-white/90"
+             rounded-md bg-white dark:bg-darkHover/30 dark:border-white/90 text-[14px] md:text-[16px]"
           />
         </div>
         <div className="mb-6">
@@ -107,7 +107,7 @@ const Contact = () => {
             required
             className="
             w-full p-4 outline-none border-[0.5px] border-gray-400 
-            rounded-md bg-white mb-6 dark:bg-darkHover/30 dark:border-white/90"
+            rounded-md bg-white mb-6 dark:bg-darkHover/30 dark:border-white/90 text-[14px] md:text-[16px]"
           ></motion.textarea>
         </div>
 
