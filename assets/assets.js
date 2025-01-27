@@ -98,8 +98,8 @@ export const workData = [
     link: "https://om-db-lookup-project.vercel.app/",
   },
   {
-    title: "News App",
-    description: "ReactJs, NewsAPI",
+    title: "SaaS Landing Page",
+    description: "NextJs, Framer Motion",
     bgImage: "/work-5.png",
     git: "https://github.com/sethstowers/daily-digest",
     link: "https://daily-digest-dun.vercel.app/",
