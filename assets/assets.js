@@ -101,8 +101,8 @@ export const workData = [
     title: "SaaS Landing Page",
     description: "NextJs, Framer Motion",
     bgImage: "/work-5.png",
-    git: "https://github.com/sethstowers/daily-digest",
-    link: "https://daily-digest-dun.vercel.app/",
+    git: "https://github.com/sethstowers/SaaS-Landing-Page",
+    link: "https://saa-s-landing-page-kappa.vercel.app/",
   },
   {
     title: "NFT Marketplace",
